@@ -1,0 +1,6 @@
+{
+  "name": "OfficePro Suite",
+  "description": "Complete MS Office-compatible productivity suite with Docs, Sheets, Slides, PDF Tools, OCR Scanner, Format Converter & Task Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
